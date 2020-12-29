@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://jamesgree90:KitAtjoyForFun9@github.com/jamesgree90/sub1.git
+[submodule "module"]
+	path = module
+	url = https://jamesgree90:KitAtjoyForFun9@github.com/jamesgree90/sub2.git
